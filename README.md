@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+I am Lucas
+- currently studing SWE at the University of Newcastle
+
+## Projects
+- unfortunatley a lot of my most completed projects are university based, im in the process of refactoring some of the better projects to share here and in my portfolio lucasholmes.com
+
+
+
 <!--
 **devlucash/devlucash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
